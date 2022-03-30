@@ -5,7 +5,7 @@
 
 ## COMMANDS>>>
 
-$ git clone https://github.com/hamalord4444/XENCRYPT
+$ git clone https://github.com/hamalord4444/lakeT-XENCRYPT
 
 $ cd XENCRYPT
 
@@ -13,6 +13,6 @@ $ python3 lakeT-Encrypt-enc.py
 
 
 
-#### git clone https://github.com/hamalord4444/XENCRYPT;cd XENCRYPT;python3 lakeT-Encrypt-enc.py
+#### git clone https://github.com/hamalord4444/lakeT-XENCRYPT;cd XENCRYPT;python3 lakeT-Encrypt-enc.py
 
 ## Created By *xXx-not-found-xXx
